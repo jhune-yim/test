@@ -1,3 +1,5 @@
+# Ultra-condensed Git cheat sheet
+
 ## Create repo
 ```bash
 % git init
@@ -12,7 +14,7 @@
 % git commit -m "message"
 ```
 
-##Sync
+## Sync
 ```bash
 % git push -u origin main
 % git push
